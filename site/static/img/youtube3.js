@@ -1,0 +1,1 @@
+document.write("<br>聽更多的歌");
