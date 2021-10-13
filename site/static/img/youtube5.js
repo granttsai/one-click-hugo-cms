@@ -1,6 +1,6 @@
 document.write("<br><a href='/p/s.html'>聽更多的歌</a><br>");
 
-document.write("<br><a href=s3.html>BTS 防彈少年團 방탄소년단 Butter<br><img src=http://img.youtube.com/vi/YLXfyHsfFz0/0.jpg></a>");
+
 
 document.write("<br><a href=s2.html>Red Velvet 레드벨벳 Queendom<br><img src=http://img.youtube.com/vi/c9RzZpV460k/0.jpg></a>");
 
