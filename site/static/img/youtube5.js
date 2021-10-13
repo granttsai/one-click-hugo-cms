@@ -1,6 +1,7 @@
 document.write("<br><a href='/p/s.html'>聽更多的歌</a><br>");
 
 
+document.write("<br><a href=s3.html>IU(아이유)  Celebrity<br><img src=http://img.youtube.com/vi/0-q1KafFCLU/0.jpg></a>");
 
 document.write("<br><a href=s2.html>Red Velvet 레드벨벳 Queendom<br><img src=http://img.youtube.com/vi/c9RzZpV460k/0.jpg></a>");
 
