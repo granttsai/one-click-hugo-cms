@@ -59,9 +59,11 @@ document.write("<br><a href=k38.html>SAKURA 生物股長<br><img src=http://img.
 document.write("<br><a href=k39.html>ありがとう 生物股長<br><img src=http://img.youtube.com/vi/ZCF8AiaAd5c/0.jpg></a>");
 document.write("<br><a href=k40.html>ひまわりの約束 秦基博<br><img src=http://img.youtube.com/vi/rKsQ-3N-Bks/0.jpg></a>");
 document.write("<br><a href=k41.html>虹 菅田将暉<br><img src=http://img.youtube.com/vi/hkBbUf4oGfA/0.jpg></a>");
+document.write("<br><a href=k42.html>First Love 宇多田ヒカル<br><img src=http://img.youtube.com/vi/o1sUaVJUeB0/0.jpg></a>");
+
 /*
 
-
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
