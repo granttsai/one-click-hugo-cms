@@ -73,13 +73,29 @@ document.write("<br><a href=k50.html>3月9日-レミオロメン<br><img src=htt
 document.write("<br><a href=k51.html>365日の紙飛行機-AKB48<br><img src=http://img.youtube.com/vi/7ct5C3jU_fY/0.jpg></a>");
 document.write("<br><a href=k52.html>愛唄-GReeeeN<br><img src=http://img.youtube.com/vi/EvwRYGlJWfQ/0.jpg></a>");
 
+document.write("<br><a href=k53.html>ピースサイン 米津玄師<br><img src=http://img.youtube.com/vi/1oMxrHXzOsY/0.jpg></a>");
+
+document.write("<br><a href=k54.html>マリーゴールド あいみょん<br><img src=http://img.youtube.com/vi/0xSiBpUdW4E/0.jpg></a>");
+
+
+
+document.write("<br><a href=k55.html>前前前世 RADWIMPS<br><img src=http://img.youtube.com/vi/PDSkFeMVNFs/0.jpg></a>");
+document.write("<br><a href=k56.html>キセキ GReeeeN<br><img src=http://img.youtube.com/vi/DwTinTO0o9I/0.jpg></a>");
+document.write("<br><a href=k57.html>手紙～拝啓十五の君へ アンジェラ アキ<br><img src=http://img.youtube.com/vi/siQJhIp-UTU/0.jpg></a>");
+document.write("<br><a href=k58.html>まちがいさがし 菅田将暉<br><img src=http://img.youtube.com/vi/7940nuwCEYA/0.jpg></a>");
+
+
+document.write("<br><a href=k59.html>極楽浄土 GARNiDELiA<br><img src=http://img.youtube.com/vi/BEULybZnLO8/0.jpg></a>");
 /*
 
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+
+
+document.write("<br><a href=k.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+
+document.write("<br><a href=k.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+
+document.write("<br><a href=k.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+
+document.write("<br><a href=k.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
 */
