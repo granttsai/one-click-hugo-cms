@@ -40,24 +40,28 @@ document.write("<br><a href=k25.html>パプリカ 米津玄師<br><img src=http:
 document.write("<br><a href=k26.html>灰色と青 菅田将暉 米津玄師<br><img src=http://img.youtube.com/vi/gJX2iy6nhHc/0.jpg></a>");
 document.write("<br><a href=k27.html>馬と鹿 米津玄師<br><img src=http://img.youtube.com/vi/ptnYBctoexk/0.jpg></a>");
 
-document.write("<br><a href=K28.html>世界が終るまでは WANDS<br><img src=http://img.youtube.com/vi/O5SDk9qvC0I/0.jpg></a>");
-document.write("<br><a href=K29.html>あなただけ見つめてる 大黒摩季<br><img src=http://img.youtube.com/vi/d9eudCNJv1E/0.jpg></a>");
+document.write("<br><a href=k28.html>世界が終るまでは WANDS<br><img src=http://img.youtube.com/vi/O5SDk9qvC0I/0.jpg></a>");
+document.write("<br><a href=k29.html>あなただけ見つめてる 大黒摩季<br><img src=http://img.youtube.com/vi/d9eudCNJv1E/0.jpg></a>");
+document.write("<br><a href=K30.html>恋愛サーキュレーション 千石撫子 花澤香菜<br><img src=http://img.youtube.com/vi/smsB94Q70nw/0.jpg></a>");
+document.write("<br><a href=k31.html>White Love SPEED<br><img src=http://img.youtube.com/vi/xdnDrHWmiic/0.jpg></a>");
+
+document.write("<br><a href=k32.html>往け LiSA<br><img src=http://img.youtube.com/vi/Ff7k1zxBe1I/0.jpg></a>");
+
+document.write("<br><a href=k33.html>私じゃなかったんだね りりあ<br><img src=http://img.youtube.com/vi/sMSBAQ0tnBY/0.jpg></a>");
+
+document.write("<br><a href=k34.html>secret base 君がくれたもの<br><img src=http://img.youtube.com/vi/B0GpxW8K0vY/0.jpg></a>");
+document.write("<br><a href=k35.html>好きだから ユイカ<br><img src=http://img.youtube.com/vi/eYAd4uDotF0/0.jpg></a>");
+
+document.write("<br><a href=k36.html>ラブレター YOASOBI<br><img src=http://img.youtube.com/vi/mnta9Pp2LqA/0.jpg></a>");
+document.write("<br><a href=k37.html>踊 Ado<br><img src=http://img.youtube.com/vi/YnSW8ian29w/0.jpg></a>");
+
+document.write("<br><a href=k38.html>SAKURA 生物股長<br><img src=http://img.youtube.com/vi/61z-cqg28R8/0.jpg></a>");
+document.write("<br><a href=k39.html>ありがとう 生物股長<br><img src=http://img.youtube.com/vi/ZCF8AiaAd5c/0.jpg></a>");
+document.write("<br><a href=k40.html>ひまわりの約束 秦基博<br><img src=http://img.youtube.com/vi/rKsQ-3N-Bks/0.jpg></a>");
+document.write("<br><a href=k41.html>虹 菅田将暉<br><img src=http://img.youtube.com/vi/hkBbUf4oGfA/0.jpg></a>");
 /*
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-
-document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
