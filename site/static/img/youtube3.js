@@ -114,7 +114,7 @@ document.write("<br><a href=k78.html>ハッピーエンド back number<br><img s
 document.write("<br><a href=k79.html>残酷な天使のテーゼ 高橋洋子<br><img src=http://img.youtube.com/vi/vPkOZm-2cNA/0.jpg></a>");
 document.write("<br><a href=k80.html>竈門炭治郎のうた 椎名豪 中川奈美<br><img src=http://img.youtube.com/vi/ViMu9dfe3_o/0.jpg></a>");
 document.write("<br><a href=k81.html>小さな恋のうた MONGOL800<br><img src=http://img.youtube.com/vi/u8EkSB9zSpE/0.jpg></a>");
-document.write("<br><a href=k82.html>名前を呼ぶよ ラックライフ<br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=k82.html>名前を呼ぶよ ラックライフ<br><img src=http://img.youtube.com/vi/-g6MYL5lOZs/0.jpg></a>");
 document.write("<br><a href=k83.html>HANABI Mr.Children<br><img src=http://img.youtube.com/vi/EXxaBXKjl6Q/0.jpg></a>");
 document.write("<br><a href=k84.html>恋音と雨空 AAA<br><img src=http://img.youtube.com/vi/A_1t2Dkd2Io/0.jpg></a>");
 document.write("<br><a href=k85.html>明日晴れるかな 桑田佳祐<br><img src=http://img.youtube.com/vi/vjj16qog4vQ/0.jpg></a>");
@@ -130,12 +130,12 @@ document.write("<br><a href=k92.html>千本桜 和楽器バンド<br><img src=ht
 document.write("<br><a href=k93.html>感電 米津玄師<br><img src=http://img.youtube.com/vi/UFQEttrn6CQ/0.jpg></a>");
 document.write("<br><a href=k94.html>春雷 米津玄師<br><img src=http://img.youtube.com/vi/zkNzxsaCunU/0.jpg></a>");
 
-
+document.write("<br><a href=k95.html>海の声 桐谷健太<br><img src=http://img.youtube.com/vi/-zQWavER7to/0.jpg></a>");
 
 /*
 document.write("<br><a href=k61.html>僕が死のうと思ったのは amazarashi<br><img src=http://img.youtube.com/vi/4M1amUJWJvA/0.jpg></a>");
 document.write("<br><a href=k7.html>紅蓮の弓矢 - Linked Horizon<br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=k95.html>海の声 桐谷健太<br><img src=http://img.youtube.com/vi//0.jpg></a>");
+
 
 document.write("<br><a href=k96.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
