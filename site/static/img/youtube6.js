@@ -7,7 +7,7 @@ document.write("<br><a href=s3.html>BTS防彈少年團Permission to Dance<br><im
 document.write("<br><a href=s5.html>The Beatles - Here Comes The Sun<br><img src=http://img.youtube.com/vi/KQetemT1sWc/0.jpg></a>");
 
 
-
+/*
 document.write("<br><a href=s6.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
 document.write("<br><a href=s8.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
@@ -27,3 +27,4 @@ document.write("<br><a href=s14.html><br><img src=http://img.youtube.com/vi//0.j
 document.write("<br><a href=s15.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
 document.write("<br><a href=s16.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+*/
