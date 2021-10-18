@@ -86,16 +86,19 @@ document.write("<br><a href=k58.html>まちがいさがし 菅田将暉<br><img 
 
 
 document.write("<br><a href=k59.html>極楽浄土 GARNiDELiA<br><img src=http://img.youtube.com/vi/BEULybZnLO8/0.jpg></a>");
+
+document.write("<br><a href=k60.html>逢いたくていま MISIA<br><img src=http://img.youtube.com/vi/MYo5alIaUOk/0.jpg></a>");
+document.write("<br><a href=k61.html>僕が死のうと思ったのは amazarashi<br><img src=http://img.youtube.com/vi/4M1amUJWJvA/0.jpg></a>");
+
 /*
 
-
-
-document.write("<br><a href=k.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-
-document.write("<br><a href=k.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-
-document.write("<br><a href=k.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-
-document.write("<br><a href=k.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=k6.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=k6.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=k6.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=k6.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=k6.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=k6.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=k6.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=k6.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
 */
