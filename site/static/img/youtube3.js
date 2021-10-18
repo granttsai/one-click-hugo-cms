@@ -114,8 +114,8 @@ document.write("<br><a href=k78.html>ハッピーエンド back number<br><img s
 document.write("<br><a href=k79.html>残酷な天使のテーゼ 高橋洋子<br><img src=http://img.youtube.com/vi/vPkOZm-2cNA/0.jpg></a>");
 document.write("<br><a href=k80.html>竈門炭治郎のうた 椎名豪 中川奈美<br><img src=http://img.youtube.com/vi/ViMu9dfe3_o/0.jpg></a>");
 document.write("<br><a href=k81.html>小さな恋のうた MONGOL800<br><img src=http://img.youtube.com/vi/u8EkSB9zSpE/0.jpg></a>");
-document.write("<br><a href=k82.html>名前を呼ぶよ ラックライフ<br><img src=http://img.youtube.com/vi/-g6MYL5lOZs/0.jpg></a>");
-document.write("<br><a href=k83.html>HANABI Mr.Children<br><img src=http://img.youtube.com/vi/EXxaBXKjl6Q/0.jpg></a>");
+document.write("<br><a href=k82.html>HANABI Mr.Children<br><img src=http://img.youtube.com/vi/EXxaBXKjl6Q/0.jpg></a>");
+document.write("<br><a href=k83.html>名前を呼ぶよ ラックライフ<br><img src=http://img.youtube.com/vi/-g6MYL5lOZs/0.jpg></a>");
 document.write("<br><a href=k84.html>恋音と雨空 AAA<br><img src=http://img.youtube.com/vi/A_1t2Dkd2Io/0.jpg></a>");
 document.write("<br><a href=k85.html>明日晴れるかな 桑田佳祐<br><img src=http://img.youtube.com/vi/vjj16qog4vQ/0.jpg></a>");
 document.write("<br><a href=k86.html>うっせぇわ Ado<br><img src=http://img.youtube.com/vi/Qp3b-RXtz4w/0.jpg></a>");
