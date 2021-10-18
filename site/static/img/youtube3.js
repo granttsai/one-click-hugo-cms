@@ -1,4 +1,4 @@
-document.write("<br><a href='https://jp.hiyawu.com/p/k.html'>聽更多的歌</a><br><br>");
+
 
 document.write("<br><a href=k6.html>YOASOBI群青<br><img src=http://img.youtube.com/vi/Y4nEEZwckuU/0.jpg></a>");
 
@@ -25,3 +25,40 @@ document.write("<br><a href=k12.html>King Gnu 白日<br><img src=http://img.yout
 document.write("<br><a href=k13.html>LiSA紅蓮華<br><img src=http://img.youtube.com/vi/_IkopJwRDKU/0.jpg></a>");
 
 document.write("<br><a href=k15.html>DISH貓<br><img src=http://img.youtube.com/vi/JGnfRSaEY78/0.jpg></a>");
+
+document.write("<br><a href=k16.html>Tomorrow Never Knows-Mr.Children<br><img src=http://img.youtube.com/vi/Nxwt_s1lM04/0.jpg></a>");
+document.write("<br><a href=k17.html>群青讃歌-Eve<br><img src=http://img.youtube.com/vi/sgZjbk9eH6g/0.jpg></a>");
+document.write("<br><a href=k19.html>栄光の架橋 ゆず<br><img src=http://img.youtube.com/vi/PRJoAPH0ZGo/0.jpg></a>");
+document.write("<br><a href=k20.html>負けないで ZARD<br><img src=http://img.youtube.com/vi/NCPH9JUFESA/0.jpg></a>");
+document.write("<br><a href=k21.html>黄色 back number<br><img src=http://img.youtube.com/vi/EMYa07zHC9w/0.jpg></a>");
+
+document.write("<br><a href=k22.html>打上花火 DAOKO 米津玄師<br><img src=http://img.youtube.com/vi/-tKVN2mAKRI/0.jpg></a>");
+document.write("<br><a href=k23.html>orion 米津玄師<br><img src=http://img.youtube.com/vi/lzAyrgSqeeE/0.jpg></a>");
+document.write("<br><a href=k24.html>LOSER 米津玄師<br><img src=http://img.youtube.com/vi/Dx_fKPBPYUI/0.jpg></a>");
+
+document.write("<br><a href=k25.html>パプリカ 米津玄師<br><img src=http://img.youtube.com/vi/s582L3gujnw/0.jpg></a>");
+document.write("<br><a href=k26.html>灰色と青 菅田将暉 米津玄師<br><img src=http://img.youtube.com/vi/gJX2iy6nhHc/0.jpg></a>");
+document.write("<br><a href=k27.html>馬と鹿 米津玄師<br><img src=http://img.youtube.com/vi/ptnYBctoexk/0.jpg></a>");
+
+document.write("<br><a href=K28.html>世界が終るまでは WANDS<br><img src=http://img.youtube.com/vi/O5SDk9qvC0I/0.jpg></a>");
+document.write("<br><a href=K29.html>あなただけ見つめてる 大黒摩季<br><img src=http://img.youtube.com/vi/d9eudCNJv1E/0.jpg></a>");
+/*
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+
+*/
