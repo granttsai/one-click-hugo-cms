@@ -61,8 +61,23 @@ document.write("<br><a href=k40.html>ひまわりの約束 秦基博<br><img src
 document.write("<br><a href=k41.html>虹 菅田将暉<br><img src=http://img.youtube.com/vi/hkBbUf4oGfA/0.jpg></a>");
 document.write("<br><a href=k42.html>First Love 宇多田ヒカル<br><img src=http://img.youtube.com/vi/o1sUaVJUeB0/0.jpg></a>");
 
+document.write("<br><a href=k43.html>REVOLUTION 安室奈美恵 Crystal Kay<br><img src=http://img.youtube.com/vi/k0eaOuwA1mc/0.jpg></a>");
+document.write("<br><a href=k44.html>HERO SHACHI<br><img src=http://img.youtube.com/vi/p1ci9IwQ-fk/0.jpg></a>");
+
+document.write("<br><a href=k45.html>HAPPY BIRTHDAY-back number<br><img src=http://img.youtube.com/vi/IsFs06cw-gY/0.jpg></a>");
+document.write("<br><a href=k46.html>瞬き-back number<br><img src=http://img.youtube.com/vi/h-KuoHHjGRs/0.jpg></a>");
+document.write("<br><a href=k47.html>クリスマスソング-back number<br><img src=http://img.youtube.com/vi/7zBeQezaz4U/0.jpg></a>");
+document.write("<br><a href=k48.html>Pretender-Official髭男dism<br><img src=http://img.youtube.com/vi/TQ8WlA2GXbk/0.jpg></a>");
+document.write("<br><a href=k49.html>粉雪-レミオロメン<br><img src=http://img.youtube.com/vi/1wxTksLZ1Mw/0.jpg></a>");
+document.write("<br><a href=k50.html>3月9日-レミオロメン<br><img src=http://img.youtube.com/vi/UNRJyBHziX4/0.jpg></a>");
+document.write("<br><a href=k51.html>365日の紙飛行機-AKB48<br><img src=http://img.youtube.com/vi/7ct5C3jU_fY/0.jpg></a>");
+document.write("<br><a href=k52.html>愛唄-GReeeeN<br><img src=http://img.youtube.com/vi/EvwRYGlJWfQ/0.jpg></a>");
+
 /*
 
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
+document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 document.write("<br><a href=.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
