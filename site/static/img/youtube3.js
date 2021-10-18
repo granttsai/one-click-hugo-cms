@@ -132,18 +132,19 @@ document.write("<br><a href=k94.html>春雷 米津玄師<br><img src=http://img.
 
 document.write("<br><a href=k95.html>海の声 桐谷健太<br><img src=http://img.youtube.com/vi/-zQWavER7to/0.jpg></a>");
 
+
+document.write("<br><a href=k96.html>Everything - MISIA<br><img src=http://img.youtube.com/vi/aHIR33pOUv0/0.jpg></a>");
+
+document.write("<br><a href=k97.html>奏(かなで)スキマスイッチ<br><img src=http://img.youtube.com/vi/J5Z7tIq7bco/0.jpg></a>");
+document.write("<br><a href=k98.html>三原色 YOASOBI<br><img src=http://img.youtube.com/vi/nhOhFOoURnE/0.jpg></a>");
+document.write("<br><a href=k99.html>ハルカ YOASOBI<br><img src=http://img.youtube.com/vi/vd3IlOjSUGQ/0.jpg></a>");
+
+document.write("<br><a href=k100.html>高嶺の花子さん back number<br><img src=http://img.youtube.com/vi/SII-S-zCg-c/0.jpg></a>");
+
 /*
 document.write("<br><a href=k61.html>僕が死のうと思ったのは amazarashi<br><img src=http://img.youtube.com/vi/4M1amUJWJvA/0.jpg></a>");
 document.write("<br><a href=k7.html>紅蓮の弓矢 - Linked Horizon<br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
-
-document.write("<br><a href=k96.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-
-document.write("<br><a href=k97.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=k98.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-document.write("<br><a href=k99.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
-
-document.write("<br><a href=k100.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
 document.write("<br><a href=k101.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 document.write("<br><a href=k102.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
