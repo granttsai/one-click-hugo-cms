@@ -143,7 +143,28 @@ arr.push("<br><a href=k99.html>ハルカ YOASOBI<br><img src=http://img.youtube.
 
 arr.push("<br><a href=k100.html>高嶺の花子さん back number<br><img src=http://img.youtube.com/vi/SII-S-zCg-c/0.jpg></a>");
 arr.push("<br><a href=k101.html>流れ弾 櫻坂46<br><img src=http://img.youtube.com/vi/drCopBcrxRM/0.jpg></a>");
+  var rrr=[];
+
+my_ran4(arr.length,1,arr.length);
+function my_ran4(n,min,max){
+  var arr=[];
+  var arr2=[];
+  for(i=0;i<max-min+1;i++){
+    arr[i]=i+min;
+  }
+  for(i=0;i<n;i++){
+    var x=parseInt(Math.random()*arr.length);
+    arr2[i]=arr[x];
+    for(j=x;j<arr.length;j++){
+      arr[j]=arr[j+1];
+    }
+    arr.length=arr.length-1;
+  }
+  rrr=arr2;
+}
+
 
 for (let i = 0; i < arr.length; i++) {
-  document.write(arr[i]);
+if (arr[rrr[i]] === undefined) {}else{
+  document.write(arr[rrr[i]]);}
 }
