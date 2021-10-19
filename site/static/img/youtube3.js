@@ -42,7 +42,7 @@ document.write("<br><a href=k27.html>馬と鹿 米津玄師<br><img src=http://i
 
 document.write("<br><a href=k28.html>世界が終るまでは WANDS<br><img src=http://img.youtube.com/vi/O5SDk9qvC0I/0.jpg></a>");
 document.write("<br><a href=k29.html>あなただけ見つめてる 大黒摩季<br><img src=http://img.youtube.com/vi/d9eudCNJv1E/0.jpg></a>");
-document.write("<br><a href=K30.html>恋愛サーキュレーション 千石撫子 花澤香菜<br><img src=http://img.youtube.com/vi/smsB94Q70nw/0.jpg></a>");
+document.write("<br><a href=k30.html>恋愛サーキュレーション 千石撫子 花澤香菜<br><img src=http://img.youtube.com/vi/smsB94Q70nw/0.jpg></a>");
 document.write("<br><a href=k31.html>White Love SPEED<br><img src=http://img.youtube.com/vi/xdnDrHWmiic/0.jpg></a>");
 
 document.write("<br><a href=k32.html>往け LiSA<br><img src=http://img.youtube.com/vi/Ff7k1zxBe1I/0.jpg></a>");
@@ -71,7 +71,7 @@ document.write("<br><a href=k48.html>Pretender-Official髭男dism<br><img src=ht
 document.write("<br><a href=k49.html>粉雪-レミオロメン<br><img src=http://img.youtube.com/vi/1wxTksLZ1Mw/0.jpg></a>");
 document.write("<br><a href=k50.html>3月9日-レミオロメン<br><img src=http://img.youtube.com/vi/UNRJyBHziX4/0.jpg></a>");
 document.write("<br><a href=k51.html>365日の紙飛行機-AKB48<br><img src=http://img.youtube.com/vi/7ct5C3jU_fY/0.jpg></a>");
-document.write("<br><a href=k52.html>愛唄-GReeeeN<br><img src=http://img.youtube.com/vi/EvwRYGlJWfQ/0.jpg></a>");
+document.write("<br><a href=k52.html>愛唄 GReeeeN<br><img src=http://img.youtube.com/vi/EvwRYGlJWfQ/0.jpg></a>");
 
 document.write("<br><a href=k53.html>ピースサイン 米津玄師<br><img src=http://img.youtube.com/vi/1oMxrHXzOsY/0.jpg></a>");
 
@@ -141,6 +141,7 @@ document.write("<br><a href=k98.html>三原色 YOASOBI<br><img src=http://img.yo
 document.write("<br><a href=k99.html>ハルカ YOASOBI<br><img src=http://img.youtube.com/vi/vd3IlOjSUGQ/0.jpg></a>");
 
 document.write("<br><a href=k100.html>高嶺の花子さん back number<br><img src=http://img.youtube.com/vi/SII-S-zCg-c/0.jpg></a>");
+document.write("<br><a href=k101.html>流れ弾 櫻坂46<br><img src=http://img.youtube.com/vi/drCopBcrxRM/0.jpg></a>");
 
 /*
 
