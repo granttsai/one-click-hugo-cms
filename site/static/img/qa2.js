@@ -1,4 +1,4 @@
-document.write("<div class='content'><div class='container-fluid'><div class='row'><div class='col-sm-12'><div id='result' class='quiz-body'><form name='quizForm' onSubmit=''><fieldset class='form-group'><h4><span id='qid'>1.</span> <span id='question'></span></h4><div class='option-block-container' id='question-options'></div></fieldset><butto nname='previous' id='previous' class='btn btn-success'>上一題</button>&nbsp;<butto nname='next' id='next' class='btn btn-success'>下一題</button></form></div></div></div></div></div>");
+document.write("<div class='content'><div class='container-fluid'><div class='row'><div class='col-sm-12'><div id='result' class='quiz-body'><form name='quizForm' onSubmit=''><fieldset class='form-group'><h4><span id='qid'>1.</span> <span id='question'></span></h4><div class='option-block-container' id='question-options'></div></fieldset><button name='previous' id='previous' class='btn btn-success'>上一題</button>&nbsp;<button name='next' id='next' class='btn btn-success'>下一題</button></form></div></div></div></div></div>");
 var quiz = { "JS": [
   {
     "id": 1,
