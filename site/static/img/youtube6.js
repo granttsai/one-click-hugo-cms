@@ -8,6 +8,7 @@ arr.push("<br><a href=s5.html>The Beatles - Here Comes The Sun<br><img src=http:
 arr.push("<br><a href=s6.html>Maroon 5 - Girls Like You<br><img src=http://img.youtube.com/vi/aJOTlE1K90k/0.jpg></a>");
 arr.push("<br><a href=s7.html>passenger let her go<br><img src=http://img.youtube.com/vi/RBumgq5yVrA/0.jpg></a>");
 
+arr.push("<br><a href=s8.html>Ed Sheeran - Perfect<br><img src=http://img.youtube.com/vi/2Vv-BfVoq4g/0.jpg></a>");
 
   var rrr=[];
 
@@ -36,6 +37,6 @@ if (arr[rrr[i]] === undefined) {}else{
 }
 
 /*
-arr.push("<br><a href=s.html<br><img src=http://img.youtube.com/vi//0.jpg></a>");
+arr.push("<br><a href=s.html><br><img src=http://img.youtube.com/vi//0.jpg></a>");
 
 */
