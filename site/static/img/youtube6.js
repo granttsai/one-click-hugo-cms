@@ -13,6 +13,7 @@ arr.push("<br><a href=s8.html>Ed Sheeran - Perfect<br><img src=http://img.youtub
 arr.push("<br><a href=s9.html>Sia - Chandelier<br><img src=http://img.youtube.com/vi/2vjPBrBU-TM/0.jpg></a>");
 
 arr.push("<br><a href=s10.html>Imagine Dragons - Believer<br><img src=http://img.youtube.com/vi/7wtfhZwyrcc/0.jpg></a>");
+arr.push("<br><a href=s11.html>Rihanna - Diamonds<br><img src=http://img.youtube.com/vi/lWA2pjMjpBs/0.jpg></a>");
 
   var rrr=[];
 
