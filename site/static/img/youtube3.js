@@ -143,6 +143,17 @@ arr.push("<br><a href=k99.html>ハルカ YOASOBI<br><img src=https://img.youtube
 
 arr.push("<br><a href=k100.html>高嶺の花子さん back number<br><img src=https://img.youtube.com/vi/SII-S-zCg-c/0.jpg></a>");
 arr.push("<br><a href=k101.html>流れ弾 櫻坂46<br><img src=https://img.youtube.com/vi/drCopBcrxRM/0.jpg></a>");
+arr.push("<br><a href=k102.html>明け星 LiSA<br><img src=https://img.youtube.com/vi/M1eXrkB6pms/0.jpg></a>");
+arr.push("<br><a href=k103.html>STYX HELIX MYTH and ROID<br><img src=https://img.youtube.com/vi/tIhL2KHVdgE/0.jpg></a>");
+arr.push("<br><a href=k104.html>あの夢をなぞって - YOASOBI<br><img src=https://img.youtube.com/vi/sAuEeM_6zpk/0.jpg></a>");
+arr.push("<br><a href=k105.html>ハルジオン - YOASOBI<br><img src=https://img.youtube.com/vi/kzdJkT4kp-A/0.jpg></a>");
+arr.push("<br><a href=k106.html>蝶々結び - Aimer<br><img src=https://img.youtube.com/vi/dHq0bTAR6wk/0.jpg></a>");
+arr.push("<br><a href=k107.html>God knows-平野綾<br><img src=https://img.youtube.com/vi/WWB01IuMvzA/0.jpg></a>");
+arr.push("<br><a href=k108.html>Butter-fly - 和田光司<br><img src=https://img.youtube.com/vi/5aA6OzYd8o0/0.jpg></a>");
+arr.push("<br><a href=k109.html>ただ君に晴れ - ヨルシカ<br><img src=https://img.youtube.com/vi/-VKIqrvVOpo/0.jpg></a>");
+arr.push("<br><a href=k110.html>再会 - LiSA×Uru<br><img src=https://img.youtube.com/vi/impSuIygMiQ/0.jpg></a>");
+//arr.push("<br><a href=k11.html><br><img src=https://img.youtube.com/vi//0.jpg></a>");
+
   var rrr=[];
 
 my_ran4(arr.length,1,arr.length);
