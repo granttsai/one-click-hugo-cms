@@ -152,6 +152,7 @@ arr.push("<br><a href=k107.html>God knows-平野綾<br><img src=https://img.yout
 arr.push("<br><a href=k108.html>Butter-fly - 和田光司<br><img src=https://img.youtube.com/vi/5aA6OzYd8o0/0.jpg></a>");
 arr.push("<br><a href=k109.html>ただ君に晴れ - ヨルシカ<br><img src=https://img.youtube.com/vi/-VKIqrvVOpo/0.jpg></a>");
 arr.push("<br><a href=k110.html>再会 - LiSA×Uru<br><img src=https://img.youtube.com/vi/impSuIygMiQ/0.jpg></a>");
+arr.push("<br><a href=k111.html>心做し - 花たん<br><img src=https://img.youtube.com/vi/vX9_kabpxSo/0.jpg></a>");
 //arr.push("<br><a href=k11.html><br><img src=https://img.youtube.com/vi//0.jpg></a>");
 
   var rrr=[];
