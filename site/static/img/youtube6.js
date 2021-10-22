@@ -10,6 +10,10 @@ arr.push("<br><a href=s7.html>passenger let her go<br><img src=http://img.youtub
 
 arr.push("<br><a href=s8.html>Ed Sheeran - Perfect<br><img src=http://img.youtube.com/vi/2Vv-BfVoq4g/0.jpg></a>");
 
+arr.push("<br><a href=s9.html>Sia - Chandelier<br><img src=http://img.youtube.com/vi/2vjPBrBU-TM/0.jpg></a>");
+
+arr.push("<br><a href=s10.html>Imagine Dragons - Believer<br><img src=http://img.youtube.com/vi/7wtfhZwyrcc/0.jpg></a>");
+
   var rrr=[];
 
 my_ran4(arr.length,1,arr.length);
