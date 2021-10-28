@@ -76,5 +76,9 @@ function my_ran4(n,min,max){
 
 for (let i = 0; i < arr.length; i++) {
 if (arr[rrr[i]] === undefined) {}else{
-  document.write(arr[rrr[i]]);}
+  //document.write(arr[rrr[i]]);}
+}
+for (let i = 1; i <=50.length; i++) {
+
+  document.write("<a href=c"+i+".html>第"+i+"課</a><br>");
 }
