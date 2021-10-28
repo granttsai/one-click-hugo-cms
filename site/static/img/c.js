@@ -64,7 +64,7 @@ function my_ran4(n,min,max){
   }
   for(i=0;i<n;i++){
     var x=parseInt(Math.random()*arr.length);
-    arr2[i]=arr[x];
+    arr2[i]=arr[i];
     for(j=x;j<arr.length;j++){
       arr[j]=arr[j+1];
     }
