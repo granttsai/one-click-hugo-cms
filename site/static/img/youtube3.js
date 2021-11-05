@@ -147,6 +147,7 @@ arr.push("<br><a href=k147.html>Story - AI<br><img src=https://img.youtube.com/v
 arr.push("<br><a href=k148.html>三日月 - 絢香<br><img src=https://img.youtube.com/vi/wHw6W4BznTM/0.jpg></a>");
 arr.push("<br><a href=k149.html>二人セゾン - 欅坂46<br><img src=https://img.youtube.com/vi//0.jpg></a>");
 arr.push("<br><a href=k150.html>さよならの今日に - あいみょん<br><img src=https://img.youtube.com/vi/C1yP_GQ9s4E/0.jpg></a>");
+arr.push("<br><a href=k151.html>ヘビーローテーション - AKB48<br><img src=https://img.youtube.com/vi/lkHlnWFnA0c/0.jpg></a>");
 //arr.push("<br><a href=k15.html><br><img src=https://img.youtube.com/vi//0.jpg></a>");
 
   var rrr=[];
