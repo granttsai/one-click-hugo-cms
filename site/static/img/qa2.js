@@ -20,7 +20,7 @@ var quiz = { "JS": [
     "status": "" },
   {
     "id": 3,
-    "question": document.getElementById("q2").value,
+    "question": document.getElementById("q3").value,
     "options": [
     { "a": document.getElementById("a30").value,
       "b": document.getElementById("a31").value }],
