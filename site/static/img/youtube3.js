@@ -126,8 +126,28 @@ arr.push("<br><a href=k126.html>The Beginning - ONE OK ROCK<br><img src=https://
 arr.push("<br><a href=k127.html>海の幽霊 - 米津玄師<br><img src=https://img.youtube.com/vi/1s84rIhPuhk/0.jpg></a>");
 arr.push("<br><a href=k128.html>今夜このまま - あいみょん<br><img src=https://img.youtube.com/vi/mH6LoI63buY/0.jpg></a>");
 arr.push("<br><a href=k129.html>summertime - cinnamons evening cinema<br><img src=https://img.youtube.com/vi/KMTo2LmixqQ/0.jpg></a>");
-
-//arr.push("<br><a href=k13.html><br><img src=https://img.youtube.com/vi//0.jpg></a>");
+arr.push("<br><a href=k130.html>Let It Go ～ありのままで～ - 松たか子<br><img src=https://img.youtube.com/vi/4DErKwi9HqM/0.jpg></a>");
+arr.push("<br><a href=k131.html>渡月橋 ～君 想ふ～ - 倉木麻衣<br><img src=https://img.youtube.com/vi/gt5AqNiTj1E/0.jpg></a>");
+arr.push("<br><a href=k132.html>さよなら - 西野カナ<br><img src=https://img.youtube.com/vi/jfC4QcuTk4k/0.jpg></a>");
+arr.push("<br><a href=k133.html>サヨナラの意味 - 乃木坂46<br><img src=https://img.youtube.com/vi/3s0-XRLIAgM/0.jpg></a>");
+arr.push("<br><a href=k134.html>サイレントマジョリティー - 欅坂46<br><img src=https://img.youtube.com/vi/w6ABMtg_nsU/0.jpg></a>");
+arr.push("<br><a href=k135.html>115万キロのフィルム - Official髭男dism<br><img src=https://img.youtube.com/vi/ljDRzQz3ULE/0.jpg></a>");
+arr.push("<br><a href=k136.html>死神 - 米津玄師<br><img src=https://img.youtube.com/vi/L_pRTyuZ9fk/0.jpg></a>");
+arr.push("<br><a href=k137.html>糸 - コバソロ Akane<br><img src=https://img.youtube.com/vi/luVxqpLOU3c/0.jpg></a>");
+arr.push("<br><a href=k138.html>SUN - 星野源<br><img src=https://img.youtube.com/vi/7gcCRAl58u4/0.jpg></a>");
+arr.push("<br><a href=k139.html>深愛 - 水樹奈<br><img src=https://img.youtube.com/vi/ePVJdev77Gw/0.jpg></a>");
+arr.push("<br><a href=k140.html>宿命 - Official髭男dism<br><img src=https://img.youtube.com/vi/-kgOFJG881I/0.jpg></a>");
+arr.push("<br><a href=k141.html>Prisoner Of Love - 宇多田ヒカル<br><img src=https://img.youtube.com/vi/6bDyqwwH4Xs/0.jpg></a>");
+arr.push("<br><a href=k142.html>金魚花火 - 大塚愛<br><img src=https://img.youtube.com/vi/yUL-KrF05-I/0.jpg></a>");
+arr.push("<br><a href=k143.html>カナリヤ - 米津玄師<br><img src=https://img.youtube.com/vi/JAMNqRBL_CY/0.jpg></a>");
+arr.push("<br><a href=k144.html>天ノ弱 - ヲタみん<br><img src=https://img.youtube.com/vi/8uWoOf83Ab4/0.jpg></a>");
+arr.push("<br><a href=k145.html>空と君のあいだに - 絢香<br><img src=https://img.youtube.com/vi/27ieR6fe7bc/0.jpg></a>");
+arr.push("<br><a href=k146.html>何度目の青空か? - 乃木坂46<br><img src=https://img.youtube.com/vi/2uR9a8nRYV8/0.jpg></a>");
+arr.push("<br><a href=k147.html>Story - AI<br><img src=https://img.youtube.com/vi/B2fPYlGKdXM/0.jpg></a>");
+arr.push("<br><a href=k148.html>三日月 - 絢香<br><img src=https://img.youtube.com/vi/wHw6W4BznTM/0.jpg></a>");
+arr.push("<br><a href=k149.html>二人セゾン - 欅坂46<br><img src=https://img.youtube.com/vi//0.jpg></a>");
+arr.push("<br><a href=k150.html>さよならの今日に - あいみょん<br><img src=https://img.youtube.com/vi/C1yP_GQ9s4E/0.jpg></a>");
+//arr.push("<br><a href=k15.html><br><img src=https://img.youtube.com/vi//0.jpg></a>");
 
   var rrr=[];
 
