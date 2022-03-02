@@ -148,6 +148,10 @@ arr.push("<br><a href=k148.html>三日月 - 絢香<br><img src=https://img.youtu
 arr.push("<br><a href=k149.html>二人セゾン - 欅坂46<br><img src=https://img.youtube.com/vi//0.jpg></a>");
 arr.push("<br><a href=k150.html>さよならの今日に - あいみょん<br><img src=https://img.youtube.com/vi/C1yP_GQ9s4E/0.jpg></a>");
 arr.push("<br><a href=k151.html>ヘビーローテーション - AKB48<br><img src=https://img.youtube.com/vi/lkHlnWFnA0c/0.jpg></a>");
+arr.push("<br><a href=k152.html>もう少しだけ-YOASOBI<br><img src=https://img.youtube.com/vi/K1Tz2yNmamI/0.jpg></a>");
+arr.push("<br><a href=k153.html>STAR TRAIN - Perfume<br><img src=https://img.youtube.com/vi/pR2E2OatMTQ/0.jpg></a>");
+arr.push("<br><a href=k154.html>TOKYO GIRL - Perfume<br><img src=https://img.youtube.com/vi/vxl4gsvgEQY/0.jpg></a>");
+arr.push("<br><a href=k155.html>FLASH - Perfume<br><img src=https://img.youtube.com/vi/q6T0wOMsNrI/0.jpg></a>");
 //arr.push("<br><a href=k15.html><br><img src=https://img.youtube.com/vi//0.jpg></a>");
 
   var rrr=[];
