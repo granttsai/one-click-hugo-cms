@@ -152,6 +152,8 @@ arr.push("<br><a href=k152.html>もう少しだけ-YOASOBI<br><img src=https://i
 arr.push("<br><a href=k153.html>STAR TRAIN - Perfume<br><img src=https://img.youtube.com/vi/pR2E2OatMTQ/0.jpg></a>");
 arr.push("<br><a href=k154.html>TOKYO GIRL - Perfume<br><img src=https://img.youtube.com/vi/vxl4gsvgEQY/0.jpg></a>");
 arr.push("<br><a href=k155.html>FLASH - Perfume<br><img src=https://img.youtube.com/vi/q6T0wOMsNrI/0.jpg></a>");
+arr.push("<br><a href=k156.html>逆夢 King Gnu<br><img src=https://img.youtube.com/vi/M6gcoDN9jBc/0.jpg></a>");
+arr.push("<br><a href=k157.html>一途 King Gnu<br><img src=https://img.youtube.com/vi/hm1na9R2uYA/0.jpg></a>");
 //arr.push("<br><a href=k15.html><br><img src=https://img.youtube.com/vi//0.jpg></a>");
 
   var rrr=[];
