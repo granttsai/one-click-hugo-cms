@@ -1,5 +1,5 @@
 document.write("<a href=c1.html>第1課 基礎教學 肯定、否定、疑問、也</a><br>");
-document.write("<a href=c2.html>第2課</a><br>");
+document.write("<a href=c2.html>第2課 基礎教學</a><br>");
 document.write("<a href=c3.html>第3課</a><br>");
 document.write("<a href=c4.html>第4課</a><br>");
 document.write("<a href=c5.html>第5課</a><br>");
